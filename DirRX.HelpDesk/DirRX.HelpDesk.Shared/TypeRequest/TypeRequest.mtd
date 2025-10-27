@@ -45,7 +45,6 @@
       ]
     }
   ],
-  "FormViewUuid": "2720b990-d02a-449b-94b1-ba3fdf836f59",
   "IconResourcesKeys": [],
   "OperationsClass": "",
   "Properties": [
@@ -84,7 +83,7 @@
   "Versions": [
     {
       "Type": "EntityMetadata",
-      "Number": 13
+      "Number": 12
     }
   ]
 }
