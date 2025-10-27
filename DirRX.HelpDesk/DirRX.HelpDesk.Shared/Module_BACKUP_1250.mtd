@@ -36,6 +36,8 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+<<<<<<< HEAD
+=======
     },
     {
       "ItemId": "d56e0870-0df5-4f1a-ba2e-b2e566f9bc0e",
@@ -52,6 +54,7 @@
     {
       "ItemId": "cc035c86-d284-45b8-85e0-4823c64cc1ad",
       "PreviousItemId": "dd2d1d4c-1b58-47aa-969b-de363a3f5393"
+>>>>>>> ef4be53 (feat: Создан тип документа AddendumRequest)
     }
   ],
   "Importance": "Medium",
@@ -77,7 +80,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 8
+      "Number": 11
     },
     {
       "Type": "DomainApi",
