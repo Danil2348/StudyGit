@@ -67,4 +67,7 @@
   <data name="Property_Note">
     <value>Примечание</value>
   </data>
+  <data name="Property_Code">
+    <value>Код</value>
+  </data>
 </root>
