@@ -1,0 +1,71 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "67b668f0-535f-453f-8f0e-be1f7e280746",
+  "Name": "HelpDesk",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "DirRX.HelpDesk.Client",
+  "ClientBaseAssemblyName": "DirRX.HelpDesk.ClientBase",
+  "ClientBaseNamespace": "DirRX.HelpDesk.ClientBase",
+  "ClientNamespace": "DirRX.HelpDesk.Client",
+  "Code": "HelpDes",
+  "CompanyCode": "DirRX",
+  "Cover": {
+    "NameGuid": "5806053b-fdde-474a-91a8-1378980b6926",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "e80b0b47-c6a0-4de5-8b07-d7b90187edb2",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "70acaaa4-9dd3-4088-b726-6a82f68d6427",
+      "BackgroundPosition": "Stretch"
+    },
+    "RemoteControls": [],
+    "Tabs": []
+  },
+  "Dependencies": [
+    {
+      "Id": "13e8b787-7077-4240-89c6-75774e584e2d",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    }
+  ],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "DirRX.HelpDesk",
+  "IsolatedAssemblyName": "DirRX.HelpDesk.Isolated",
+  "IsolatedNamespace": "DirRX.HelpDesk.Isolated",
+  "IsVisible": false,
+  "Overridden": [
+    "IsVisible",
+    "IsLicensed"
+  ],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.HelpDesk",
+  "ServerAssemblyName": "DirRX.HelpDesk.Server",
+  "ServerNamespace": "DirRX.HelpDesk.Server",
+  "SharedAssemblyName": "DirRX.HelpDesk.Shared",
+  "SharedNamespace": "DirRX.HelpDesk.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 11
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
