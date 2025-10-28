@@ -79,4 +79,7 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Имя</value>
   </data>
+  <data name="Property_Index" xml:space="preserve">
+    <value>Целое</value>
+  </data>
 </root>
