@@ -45,7 +45,6 @@
       ]
     }
   ],
-  "FormViewUuid": "2720b990-d02a-449b-94b1-ba3fdf836f59",
   "IconResourcesKeys": [],
   "OperationsClass": "",
   "Properties": [
@@ -58,6 +57,14 @@
       "IsQuickSearchAllowed": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "ffd22d5e-4ae9-4171-a18d-093a6a690a40",
+      "Name": "Note",
+      "Code": "Note",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     }
   ],
   "PublicStructures": [],
@@ -84,7 +91,7 @@
   "Versions": [
     {
       "Type": "EntityMetadata",
-      "Number": 13
+      "Number": 12
     }
   ]
 }
