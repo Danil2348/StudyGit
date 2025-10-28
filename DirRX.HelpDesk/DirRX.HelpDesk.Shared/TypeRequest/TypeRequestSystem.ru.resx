@@ -64,4 +64,7 @@
   <data name="Property_Responsible" xml:space="preserve">
     <value>Ответственный</value>
   </data>
+  <data name="Property_Note">
+    <value>Примечание</value>
+  </data>
 </root>
